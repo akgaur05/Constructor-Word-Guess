@@ -1,0 +1,25 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgaur05/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akgaur05/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/akgaur05/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dotenv": "^6.1.0",
+    "inquirer": "^6.2.0"
+  }
+}
